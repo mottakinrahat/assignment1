@@ -1,0 +1,199 @@
+
+    * {
+        font-family: 'Open Sans', sans-serif;
+        margin: 0;
+    }
+.banner{
+  margin:0px 200px;
+  text-align: right;
+
+  height: 700px;
+ 
+}
+header{
+    background-image: url(../images/banner/banner3.png);
+    background-repeat: no-repeat;
+
+    background-size: cover;
+    text-align: left;
+    margin-bottom: 50px;
+   
+    
+}
+.banner-title{
+
+    color: white;
+    font-size: 60px;
+   font-weight: 700;
+   padding-top: 80px;
+   
+  
+}
+.banner-des{
+    color: white;
+    font-size: 20px;
+    
+   font-weight: 400;
+   margin-bottom: 20px;
+  
+}
+    .btn {
+        height: 64px;
+        font-size: 20px;
+        background-color: red;
+        font-weight: 700;
+        border-radius: 5px;
+        border: 0;
+        color: white;
+        padding: 18px 35px;
+    }
+    .failures{
+        display: flex;
+        gap: 80px;
+        align-items: center;
+    }
+    .failures-title{
+       font-size: 50px;
+    }
+    .failures-des{
+        font-size: 20px;
+    }
+    .text-failures{
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    .section-title{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    }
+    .about-container{
+        display: inline-flex;
+        position: absolute;
+        width: 1141px;
+        height: 202.96px;
+       margin-left: 230px;
+       justify-content: space-between;
+       gap:20px;
+       
+    }
+    .info-title{
+        font-size: 22px;
+        font-weight: 700;
+        text-align: center;
+        
+
+    }
+    .about{
+        align-items: center;
+        margin-bottom: 500px;
+    }
+    .info-des{
+            font-weight: 500;
+            font-size: 25px;
+            text-align: center;
+            color:#737272;
+            
+    }
+    img{
+      padding-left: 40px;
+       
+    }
+    .info-tit{
+        font-size: 30px;
+        font-weight: 700;
+        margin-left: 50px;
+    }
+    .poster{
+        margin: 0px 200px;
+        margin-top:90px;
+        position: absolute;
+    }
+    .btn-poster {
+        height: 45px;
+        font-size: 20px;
+        background-color: rgb(255, 255, 255);
+        font-weight: 700;
+        border-radius: 5px;
+        border: 0;
+        color: rgb(24, 1, 1);
+        padding: 10px 25px;
+    }
+    .poster-info{
+            height: 300px;
+            width: 1140px;
+            font-size: 20px;
+            background-image: url('../images/gradient1.png'),url('../images/watch.png');
+            background-repeat: no-repeat;
+            background-color: red;
+            font-weight: 700;
+            border-radius: 5px;
+            border: 0;
+            color: white;
+            margin-left: 230px;
+         
+        }
+        .poster-title{
+            font-weight: 700;
+            font-size: 40px;
+            margin-bottom: 20px;
+        }
+        .future{
+            display: flex;
+            gap: 315px;
+            background-color:rgb(0, 0, 0) ;
+              color: white;
+            padding: 130px 200px;
+            margin-top: 70px;
+            align-items: center;
+        }
+        .future .future-title{
+            text-align: left;
+        }
+        .future .description{
+            font-size: 10px;
+        }
+        .socials{
+            font-size: 20px;
+        }
+        .future input{
+            margin-bottom: 20px;
+            border: 0;
+            border-radius: 5px;
+           width: fit-content;
+          padding: 10px,30px;
+        }
+        input{
+            height: 64px;
+        
+        }
+        .f-title{
+            margin-bottom: 40px;
+            font-weight: 700;
+            font-size: 45px;
+
+        }
+        .future-des{
+            margin-bottom: 30px;
+            font-weight: 700;
+            font-size: 16px;
+        }
+        .fu-title{
+
+            font-weight: 600;
+            font-size: 35px;
+            margin-bottom: 20px;
+        }
+        .btnx{
+                height: 50px;
+                font-size: 20px;
+                background-color: rgb(54, 11, 244);
+                font-weight: 700;
+                border-radius: 5px;
+                border: 0;
+                color: rgb(255, 255, 255);
+                padding: 5px 25px;
+        }
+        
